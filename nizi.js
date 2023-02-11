@@ -1,4 +1,4 @@
-function 2zi(){
+function nizi(){
   if(document.getElementById('kotae2').value=='月ノ美兎'){
   alert('正解！');
 }
