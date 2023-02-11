@@ -1,4 +1,5 @@
-function ぶいすぽっ(){if(document.getElementById('kotae1').value=='橘ひなの'){
+function ぶいすぽっ(){
+  if(document.getElementById('kotae1').value=='橘ひなの'){
   alert('正解！');
 }
 else {
