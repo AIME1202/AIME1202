@@ -1,4 +1,5 @@
-function 2zi(){if(document.getElementById('kotae2').value=='月ノ美兎'){
+function 2zi(){
+  if(document.getElementById('kotae2').value=='月ノ美兎'){
   alert('正解！');
 }
 else {
